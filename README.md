@@ -1,58 +1,292 @@
 # 🚀 Olá, eu sou o Mateus Rangel!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&width=435&lines=Estudante+de+Dev.+de+Sistemas;Fascinado+por+IA;Apaixonado+por+Computadores" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+de+Sistemas;Fascinado+por+Intelig%C3%AAncia+Artificial;Apaixonado+por+Computadores;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:123d1d,100:39FF14&height=120&section=header" width="100%"/>
+
 </div>
 
 ---
 
-### 🙋‍♂️ Sobre Mim
+## 👨‍💻 Sobre Mim
 
-> **Olá, me chamo Mateus Rangel e sou estudante de Desenvolvimento de Sistemas. Aproveite para visitar meus repositórios e dar feedbacks!** 🚀
+<div align="center">
 
-*   💻 **Apaixonado por computadores** e fascinado pelas infinitas possibilidades que a tecnologia nos proporciona para resolver problemas reais.
-*   🎓 Cursando **Análise e Desenvolvimento de Sistemas** no **SENAI**.
-*   🤖 **Fascinado por Inteligência Artificial**, focado em entender como integrar modelos inteligentes ao desenvolvimento de softwares modernos.
+> **Olá! Eu sou Mateus Rangel, estudante de Desenvolvimento de Sistemas e apaixonado pelo universo da tecnologia.**
+> Gosto de aprender na prática, criar projetos e entender como as coisas funcionam por trás do código. 🚀
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td width="33%" align="center">
+
+### 💻 Computadores
+
+Apaixonado por computadores e pelas infinitas possibilidades que a tecnologia oferece para resolver problemas reais.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🎓 Formação
+
+Cursando **Análise e Desenvolvimento de Sistemas** no **SENAI**.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 Inteligência Artificial
+
+Fascinado por **IA** e interessado em entender como integrar modelos inteligentes ao desenvolvimento de softwares modernos.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 🛠️ Minha Stack & Tecnologias
+## 🛠️ Minha Stack & Tecnologias
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<div align="center">
+
+### ☕ Desenvolvimento
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+### 🧰 Ferramentas
+
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </div>
 
 ---
 
-### 🪐 Galeria Visual: Minhas Paixões Tecnológicas
+## 🖥️ Meu Ambiente de Desenvolvimento
 
-Aqui está um vislumbre das tecnologias e conceitos que guiam meus estudos diariamente:
-
-#### ☕ O Poder do Ecossistema Java
-Java é a fundação de sistemas robustos e escaláveis ao redor do mundo.
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=600&q=80" width="550px" alt="Desenvolvimento Java" style="border-radius: 10px;" />
+
+```text
+┌─────────────────────────────────────────────────────┐
+│  MATEUS@DEV ~                                       │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│  > Java                                             │
+│  > Spring Boot                                      │
+│  > IntelliJ IDEA                                    │
+│  > Git / GitHub                                     │
+│  > Inteligência Artificial                          │
+│                                                     │
+│  Status: ████████████████████░░  Aprendendo...      │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
 </div>
 
-#### 🍃 Spring Boot — Agilidade no Back-End
-O framework que transforma o desenvolvimento Java em algo extremamente ágil, limpo e pronto para a nuvem.
+---
+
+# 🪐 Galeria Visual
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/spring/spring.png" width="120px" alt="Spring Boot" />
+
+### Tecnologias e conceitos que fazem parte da minha jornada
+
 </div>
 
-#### 🌀 Google Antigravity — Brincando com a Física e a Gravidade
-Uma homenagem ao clássico easter egg da Google, que desafia as leis da gravidade física diretamente no navegador usando Javascript e vetores!
+---
+
+## ☕ Java — A Base do Desenvolvimento
+
 <div align="center">
-  <p align="center"><i>"E se o código pudesse flutuar?"</i></p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3F3Y3ZicWxjM3pnbWNiaXBnNm94Nm8xdm5yY3dyNnVudThoZGFkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" width="400px" alt="Antigravity Effect GIF" style="border-radius: 10px;" />
+
+<img src="https://skillicons.dev/icons?i=java" width="90"/>
+
+</div>
+
+Java é uma das principais tecnologias que estudo atualmente.
+
+É uma linguagem poderosa e versátil, utilizada na construção de aplicações robustas, sistemas empresariais, APIs e diversos outros tipos de software.
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Orientação_a_Objetos-ED8B00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend-ED8B00?style=flat-square"/>
+<img src="https://img.shields.io/badge/POO-ED8B00?style=flat-square"/>
+
+</div>
+
+---
+
+## 🍃 Spring Boot — Desenvolvimento Back-End
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=spring" width="90"/>
+
+<br><br>
+
+**Agilidade + organização + produtividade**
+
+</div>
+
+O **Spring Boot** é uma das tecnologias que estou explorando para desenvolver aplicações Java modernas.
+
+Ele facilita a criação de APIs e aplicações back-end, permitindo trabalhar com projetos mais organizados e preparados para crescer.
+
+<br>
+
+<div align="center">
+
+| ⚡ Desenvolvimento rápido | ☁️ Pronto para a nuvem | 🧩 Código organizado |
+| :----------------------: | :--------------------: | :------------------: |
+|           APIs           |   Aplicações modernas  |      Arquitetura     |
+
+</div>
+
+---
+
+## 🧠 IntelliJ IDEA — Meu Ambiente de Código
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=idea" width="90"/>
+
+<br>
+
+### **Code. Learn. Build.**
+
+</div>
+
+O **IntelliJ IDEA** é uma das principais ferramentas que utilizo durante meus estudos e projetos.
+
+A IDE oferece recursos que ajudam bastante no desenvolvimento Java, como:
+
+* 🧠 Inteligência de código
+* 🔎 Navegação pelo projeto
+* 🛠️ Refatoração
+* 🐞 Debugger
+* 📦 Gerenciamento de projetos
+* ⚡ Maior produtividade
+
+---
+
+## 🔥 Minha Jornada
+
+<div align="center">
+
+```text
+          ┌──────────────┐
+          │    ESTUDO    │
+          └──────┬───────┘
+                 │
+                 ▼
+          ┌──────────────┐
+          │    PRÁTICA   │
+          └──────┬───────┘
+                 │
+                 ▼
+          ┌──────────────┐
+          │   PROJETOS   │
+          └──────┬───────┘
+                 │
+                 ▼
+          ┌──────────────┐
+          │   APRENDER   │
+          └──────┬───────┘
+                 │
+                 ▼
+          ┌──────────────┐
+          │   EVOLUIR 🚀 │
+          └──────────────┘
+```
+
+</div>
+
+---
+
+## 📊 Tecnologias que Estou Explorando
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,idea,git,github,mysql,arduino" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+Java             ███████████████████░░  Em evolução
+Spring Boot      ███████████████░░░░░  Estudando
+SQL / MySQL      ████████████████░░░░  Estudando
+Git / GitHub     █████████████████░░░  Utilizando
+IntelliJ IDEA    ████████████████████  Utilizando
+IA               ████████████░░░░░░░░  Explorando
+```
+
+</div>
+
+---
+
+## 🚀 Objetivo
+
+<div align="center">
+
+### **Aprender → Criar → Errar → Corrigir → Evoluir**
+
+<br>
+
+> "Cada linha de código é uma oportunidade de aprender alguma coisa nova."
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=footer" width="80%"/>
+
+</div>
+
+---
+
+## 📫 Vamos nos conectar?
+
+<div align="center">
+
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+**Se quiser acompanhar minha evolução, fique à vontade para explorar meus repositórios!** 🚀
+
 </div>
 
 ---
 
 <div align="center">
-  <p>Feito com 💚 e muita linha de código por Mateus Rangel.</p>
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-AQUI&color=green&style=flat-square" alt="Contador de Visitas" />
+
+### 💚 Feito com código, café e muita curiosidade.
+
+<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-AQUI&color=39FF14&style=for-the-badge&label=VISITAS" alt="Contador de Visitas"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:123d1d,100:0d1117&height=100&section=footer" width="100%"/>
+
 </div>
+
