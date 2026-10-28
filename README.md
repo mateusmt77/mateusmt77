@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/1200x/9e/2c/9b/9e2c9bf1f7abf645d6e2e051a53efb92.jpg" alt="MacGhost — Mateus Rangel | Desenvolvimento de Software" width="10%" /> 
+<img src="https://i.pinimg.com/1200x/9e/2c/9b/9e2c9bf1f7abf645d6e2e051a53efb92.jpg" alt="MacGhost — Mateus Rangel | Desenvolvimento de Software" width="26%" /> 
 
 
 <a href="https://github.com/mateusmt77">
