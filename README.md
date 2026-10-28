@@ -155,7 +155,6 @@ Spring Boot	Ecossistema Java para aplicações e APIs modernas.
 - Evoluir em bancos de dados, APIs e testes automatizados.
 - Aprender cada vez mais sobre Git, colaboração e automação de projetos.
 <div align="center">
-📡 06 // CONNECT
 
 <strong>Curte tecnologia, projetos e aquela sensação de resolver um bug difícil?</strong>
 
