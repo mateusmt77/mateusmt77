@@ -154,8 +154,8 @@ Spring Boot	Ecossistema Java para aplicações e APIs modernas.
 - Explorar aplicações e ferramentas no ecossistema Node.js + npm.
 - Evoluir em bancos de dados, APIs e testes automatizados.
 - Aprender cada vez mais sobre Git, colaboração e automação de projetos.
-📡 06 // CONNECT
 <div align="center">
+📡 06 // CONNECT
 
 <strong>Curte tecnologia, projetos e aquela sensação de resolver um bug difícil?</strong>
 
