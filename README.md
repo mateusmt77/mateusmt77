@@ -1,292 +1,171 @@
-# 🚀 Olá, eu sou o Mateus Rangel, mas me identifico como MacGhost (Não pergunte por que, só acho dahora👌)!
+<!--
+  MACGHOST / README DE PERFIL
+  Tema: Dark Crimson · GitHub: @mateusmt77
+  Coloque este README.md na raiz do repositório mateusmt77/mateusmt77
+  e mantenha a pasta assets/ ao lado dele.
+-->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+de+Sistemas;Fascinado+por+Intelig%C3%AAncia+Artificial;Apaixonado+por+Computadores;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+<img src="./assets/macghost-header.svg" alt="MacGhost — Mateus Rangel | Desenvolvimento de Software" width="100%" />
 
-<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:123d1d,100:39FF14&height=120&section=header" width="100%"/>
+<a href="https://github.com/mateusmt77">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=900&color=FF4058&center=true&vCenter=true&width=900&height=65&lines=Desenvolvedor+em+constru%C3%A7%C3%A3o...;Java+%7C+JavaScript+%7C+HTML+%7C+CSS+%7C+Node.js;Aprendendo+na+pr%C3%A1tica%2C+um+commit+por+vez;Build.+Break.+Learn.+Repeat." alt="Texto animado: tecnologias e jornada de desenvolvimento" />
+</a>
 
+
+<a href="https://github.com/mateusmt77?tab=repositories"><img src="https://img.shields.io/badge/EXPLORAR_REPOSIT%C3%93RIOS-EA314B?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios" /></a>
+<a href="https://gist.github.com/mateusmt77"><img src="https://img.shields.io/badge/MEUS_GISTS-16121A?style=for-the-badge&logo=github&logoColor=FF5168" alt="Meus Gists" /></a>
+<img src="https://komarev.com/ghpvc/?username=mateusmt77&label=VISITAS&color=E62E48&style=for-the-badge" alt="Visualizações do perfil" />
+<br/>
+<br/>
+
+
+<code>// estudante de tecnologia</code>   <code>// curioso por natureza</code>   <code>// sempre em evolução</code>
 </div>
 
----
-
-## 👨‍💻 Sobre Mim
-
-<div align="center">
-
-> **Olá! Eu sou Mateus Rangel, estudante de Desenvolvimento de Sistemas e apaixonado pelo universo da tecnologia.**
-> Gosto de aprender na prática, criar projetos e entender como as coisas funcionam por trás do código. 🚀
-
-</div>
-
-<br>
-
-<table align="center">
+🩸 01 // SYSTEM PROFILE
+<table>
 <tr>
-
-<td width="33%" align="center">
-
-### 💻 Computadores
-
-Apaixonado por computadores e pelas infinitas possibilidades que a tecnologia oferece para resolver problemas reais.
-
+<td width="57%" valign="top">
+<h3>👾 Prazer, eu sou o MacGhost.</h3>
+<p>Meu nome é <strong>Mateus Rangel</strong>. Sou estudante de <strong>Análise e Desenvolvimento de Sistemas no SENAI</strong> e gosto de descobrir como a tecnologia funciona além da interface.</p>
+<p>Tenho um interesse especial por <strong>desenvolvimento de software, back-end, computação e inteligência artificial</strong>. Meu jeito favorito de aprender é simples: estudar um conceito, testar, errar, corrigir e transformar o aprendizado em projetos reais.</p>
+<p><strong>No meu radar agora:</strong> aprofundar conhecimentos em <strong>Java</strong>, evoluir no <strong>JavaScript</strong> e construir aplicações com <strong>HTML, CSS e Node.js</strong>.</p>
 </td>
-
-<td width="33%" align="center">
-
-### 🎓 Formação
-
-Cursando **Análise e Desenvolvimento de Sistemas** no **SENAI**.
-
+<td width="43%" valign="top">
+<pre>┌─ MACGHOST@DEV ───────────────┐
+│                              │
+│  user       : macghost       │
+│  mode       : learning       │
+│  primary    : Java           │
+│  exploring  : Web + Node.js  │
+│  tools      : Git / GitHub   │
+│  mindset    : never stop     │
+│                              │
+│  &gt; keep_building(); █        │
+└──────────────────────────────┘</pre>
 </td>
-
-<td width="33%" align="center">
-
-### 🤖 Inteligência Artificial
-
-Fascinado por **IA** e interessado em entender como integrar modelos inteligentes ao desenvolvimento de softwares modernos.
-
-</td>
-
 </tr>
 </table>
 
----
-
-## 🛠️ Minha Stack & Tecnologias
-
 <div align="center">
 
-### ☕ Desenvolvimento
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-### 🧰 Ferramentas
-
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCO-BACK--END-FF3650?style=flat-square&labelColor=171016" alt="Foco: Back-end" />
+<img src="https://img.shields.io/badge/INTERESSE-INTELIG%C3%8ANCIA_ARTIFICIAL-FF3650?style=flat-square&labelColor=171016" alt="Interesse: Inteligência Artificial" />
+<img src="https://img.shields.io/badge/MENTALIDADE-APRENDER_E_CONSTRUIR-FF3650?style=flat-square&labelColor=171016" alt="Mentalidade: aprender e construir" />
 
 </div>
 
----
-
-## 🖥️ Meu Ambiente de Desenvolvimento
-
+⚔️ 02 // TECH ARSENAL
 <div align="center">
 
-```text
-┌─────────────────────────────────────────────────────┐
-│  MATEUS@DEV ~                                       │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  > Java                                             │
-│  > Spring Boot                                      │
-│  > IntelliJ IDEA                                    │
-│  > Git / GitHub                                     │
-│  > Inteligência Artificial                          │
-│                                                     │
-│  Status: ████████████████████░░  Aprendendo...      │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+<strong>As tecnologias que fazem parte da minha jornada — sem porcentagens inventadas de proficiência.</strong>
+<img src="./assets/tech-stack.svg" alt="Mapa de aprendizado: Java como foco principal; JavaScript, HTML, CSS e Node.js em evolução" width="100%" />
+
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs&theme=dark" alt="Ícones: Java, JavaScript, HTML, CSS e Node.js" />
 
 </div>
 
----
+🔥 Foco principal
+Java — orientação a objetos, lógica de programação, APIs, persistência de dados e fundamentos de back-end.
+🚧 Expandindo a stack
+Tecnologia	Como estou explorando
+JavaScript	Lógica, funções, objetos, assincronismo e integração com APIs.
+HTML5	Estrutura e semântica de páginas web.
+CSS3	Estilização, responsividade e interfaces.
+Node.js	Execução de JavaScript fora do navegador e desenvolvimento back-end.
+npm	Gerenciamento de dependências e scripts em projetos Node.js.
+Spring Boot	Ecossistema Java para aplicações e APIs modernas.
 
-# 🪐 Galeria Visual
 
+<details>
+<summary><b>🧰 Abrir ferramentas, bancos de dados e ambiente</b></summary>
+<br/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,maven,mysql,npm,spring&theme=dark" alt="Git, GitHub, IntelliJ IDEA, VS Code, Maven, MySQL, npm e Spring" />
+</div>
+<br/>
+
+- Versionamento: Git, GitHub, branches, commits e pull requests.
+- IDEs e editores: IntelliJ IDEA e Visual Studio Code.
+- Build e dependências: Maven e npm.
+- Dados: SQL e MySQL.
+- Ecossistema Java: explorando Spring Boot e boas práticas de back-end.
+</details>
+
+📈 03 // GITHUB TELEMETRY
 <div align="center">
 
-### Tecnologias e conceitos que fazem parte da minha jornada
+<h3>⚡ Estatísticas de desenvolvimento</h3>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mateusmt77&show_icons=true&include_all_commits=true&hide_border=false&border_radius=12&bg_color=0B0B10&border_color=4B1B2A&title_color=FF405A&text_color=F0E4E8&icon_color=FF405A&ring_color=FF405A&locale=pt-br" alt="Estatísticas de contribuições do GitHub" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmt77&layout=compact&langs_count=8&hide_border=false&border_radius=12&bg_color=0B0B10&border_color=4B1B2A&title_color=FF405A&text_color=F0E4E8&size_weight=0.5&count_weight=0.5" alt="Linguagens presentes nos repositórios públicos" />
+
+<br/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=mateusmt77&theme=dark&background=0B0B10&border=4B1B2A&ring=FF405A&fire=FF6C7E&currStreakLabel=FF405A&sideLabels=E9D9DF&dates=BCAFB6&locale=pt_BR" alt="Sequência de contribuições GitHub" />
+
+<h3>📉 Gráfico de atividade</h3>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mateusmt77&bg_color=0B0B10&color=ECE0E5&line=FF405A&point=FF8495&area=true&area_color=681A30&hide_border=false&border_color=4B1B2A&radius=12&custom_title=Atividade%20no%20GitHub" alt="Gráfico dinâmico de atividade do GitHub" />
+
+<sub>📌 Os gráficos são atualizados por serviços externos e podem ficar temporariamente indisponíveis. O cartão de linguagens reflete os repositórios analisados, não o nível de conhecimento em cada linguagem.</sub>
+</div>
+
+🧪 04 // PROJECT LAB
+<div align="center">
+
+<h3>Transformando aprendizado em código</h3>
 
 </div>
 
----
-
-## ☕ Java — A Base do Desenvolvimento
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java" width="90"/>
-
-</div>
-
-Java é uma das principais tecnologias que estudo atualmente.
-
-É uma linguagem poderosa e versátil, utilizada na construção de aplicações robustas, sistemas empresariais, APIs e diversos outros tipos de software.
-
-<br>
+<table>
+<tr>
+<td width="100%" valign="top">
+<h3>🌦️ Weather Website — Java</h3>
+<p>Projeto de estudos focado em <strong>Java, consumo de API e organização da aplicação</strong>, com construção progressiva de um sistema de consulta meteorológica.</p>
+<p><strong>Tecnologias:</strong> <code>Java</code> · <code>Maven</code> · <code>Git</code> · <code>GitHub</code></p>
+<a href="https://github.com/mateusmt77/weather_website_demo1"><img src="https://img.shields.io/badge/VER_PROJETO-FF3650?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Ver repositório Weather Website" /></a>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Orientação_a_Objetos-ED8B00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Backend-ED8B00?style=flat-square"/>
-<img src="https://img.shields.io/badge/POO-ED8B00?style=flat-square"/>
-
+<a href="https://github.com/mateusmt77?tab=repositories"><img src="https://img.shields.io/badge/VER_TODOS_OS_PROJETOS-151219?style=for-the-badge&logo=github&logoColor=FF5168" alt="Ver todos os projetos" /></a>
 </div>
 
----
-
-## 🍃 Spring Boot — Desenvolvimento Back-End
-
+🧠 05 // THE LEARNING LOOP
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=spring" width="90"/>
+<img src="./assets/development-loop.svg" width="100%" alt="Meu processo: estudar, praticar, construir, depurar e evoluir" />
 
-<br><br>
-
-**Agilidade + organização + produtividade**
+<blockquote><strong>“Cada linha de código é uma oportunidade de aprender algo novo.”</strong></blockquote>
 
 </div>
 
-O **Spring Boot** é uma das tecnologias que estou explorando para desenvolver aplicações Java modernas.
-
-Ele facilita a criação de APIs e aplicações back-end, permitindo trabalhar com projetos mais organizados e preparados para crescer.
-
-<br>
-
+🎯 Próximos objetivos
+- Consolidar fundamentos e boas práticas de Java.
+- Construir interfaces com HTML, CSS e JavaScript.
+- Explorar aplicações e ferramentas no ecossistema Node.js + npm.
+- Evoluir em bancos de dados, APIs e testes automatizados.
+- Aprender cada vez mais sobre Git, colaboração e automação de projetos.
+📡 06 // CONNECT
 <div align="center">
 
-| ⚡ Desenvolvimento rápido | ☁️ Pronto para a nuvem | 🧩 Código organizado |
-| :----------------------: | :--------------------: | :------------------: |
-|           APIs           |   Aplicações modernas  |      Arquitetura     |
+<strong>Curte tecnologia, projetos e aquela sensação de resolver um bug difícil?</strong>
+
+Você pode acompanhar meus estudos e explorar o código diretamente no GitHub.
+
+<a href="https://github.com/mateusmt77"><img src="https://img.shields.io/badge/GITHUB-MACGHOST-FF3650?style=for-the-badge&logo=github&logoColor=white&labelColor=161117" alt="Meu GitHub" /></a>
+<a href="https://github.com/mateusmt77?tab=repositories"><img src="https://img.shields.io/badge/REPOSIT%C3%93RIOS-EXPLORAR-2A141C?style=for-the-badge&logo=git&logoColor=FF6479" alt="Meus repositórios" /></a>
+<br/>
+<br/>
+
+<img src="./assets/macghost-footer.svg" alt="MacGhost: feito com código, café e curiosidade" width="100%" />
 
 </div>
-
----
-
-## 🧠 IntelliJ IDEA — Meu Ambiente de Código
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=idea" width="90"/>
-
-<br>
-
-### **Code. Learn. Build.**
-
-</div>
-
-O **IntelliJ IDEA** é uma das principais ferramentas que utilizo durante meus estudos e projetos.
-
-A IDE oferece recursos que ajudam bastante no desenvolvimento Java, como:
-
-* 🧠 Inteligência de código
-* 🔎 Navegação pelo projeto
-* 🛠️ Refatoração
-* 🐞 Debugger
-* 📦 Gerenciamento de projetos
-* ⚡ Maior produtividade
-
----
-
-## 🔥 Minha Jornada
-
-<div align="center">
-
-```text
-          ┌──────────────┐
-          │    ESTUDO    │
-          └──────┬───────┘
-                 │
-                 ▼
-          ┌──────────────┐
-          │    PRÁTICA   │
-          └──────┬───────┘
-                 │
-                 ▼
-          ┌──────────────┐
-          │   PROJETOS   │
-          └──────┬───────┘
-                 │
-                 ▼
-          ┌──────────────┐
-          │   APRENDER   │
-          └──────┬───────┘
-                 │
-                 ▼
-          ┌──────────────┐
-          │   EVOLUIR 🚀 │
-          └──────────────┘
-```
-
-</div>
-
----
-
-## 📊 Tecnologias que Estou Explorando
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,idea,git,github,mysql,arduino" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-Java             ███████████████████░░  Em evolução
-Spring Boot      ███████████████░░░░░  Estudando
-SQL / MySQL      ████████████████░░░░  Estudando
-Git / GitHub     █████████████████░░░  Utilizando
-IntelliJ IDEA    ████████████████████  Utilizando
-IA               ████████████░░░░░░░░  Explorando
-```
-
-</div>
-
----
-
-## 🚀 Objetivo
-
-<div align="center">
-
-### **Aprender → Criar → Errar → Corrigir → Evoluir**
-
-<br>
-
-> "Cada linha de código é uma oportunidade de aprender alguma coisa nova."
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=footer" width="80%"/>
-
-</div>
-
----
-
-## 📫 Vamos nos conectar?
-
-<div align="center">
-
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-**Se quiser acompanhar minha evolução, fique à vontade para explorar meus repositórios!** 🚀
-
-</div>
-
----
-
-<div align="center">
-
-### 💚 Feito com código, café e muita curiosidade.
-
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-AQUI&color=39FF14&style=for-the-badge&label=VISITAS" alt="Contador de Visitas"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:123d1d,100:0d1117&height=100&section=footer" width="100%"/>
-
-</div>
-
