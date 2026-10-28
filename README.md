@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="[https://www.pinterest.com/pin/871094752902692354/](https://www.google.com/imgres?q=imagem%20de%20joinha&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F9e%2F2c%2F9b%2F9e2c9bf1f7abf645d6e2e051a53efb92.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F871094752902692354%2F&docid=7a4Ta74mMkVzpM&tbnid=mZnjmOsrALSQnM&vet=12ahUKEwjFva_Z6t2XAxVXrZUCHe11AngQnPAOegQIQBAA..i&w=736&h=736&hcb=2&ved=2ahUKEwjFva_Z6t2XAxVXrZUCHe11AngQnPAOegQIQBAA)" alt="MacGhost — Mateus Rangel | Desenvolvimento de Software" width="100%" />
+<img src="https://i.pinimg.com/1200x/9e/2c/9b/9e2c9bf1f7abf645d6e2e051a53efb92.jpg" alt="MacGhost — Mateus Rangel | Desenvolvimento de Software" width="100%" /> 
 
 
 <a href="https://github.com/mateusmt77">
