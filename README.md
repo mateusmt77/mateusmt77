@@ -29,7 +29,7 @@
 <table>
 <tr>
 <td width="57%" valign="top">
-<h3>👾 Prazer, eu sou o MacGhost.</h3>
+<h3>👾 Prazer, eu sou Mateus Rangel e tenho 18 anos de idade atualmente</h3>
 <p>Meu nome é <strong>Mateus Rangel</strong>. Sou estudante de <strong>Análise e Desenvolvimento de Sistemas no SENAI</strong> e gosto de descobrir como a tecnologia funciona além da interface.</p>
 <p>Tenho um interesse especial por <strong>desenvolvimento de software, back-end, computação e inteligência artificial</strong>. Meu jeito favorito de aprender é simples: estudar um conceito, testar, errar, corrigir e transformar o aprendizado em projetos reais.</p>
 <p><strong>No meu radar agora:</strong> aprofundar conhecimentos em <strong>Java</strong>, evoluir no <strong>JavaScript</strong> e construir aplicações com <strong>HTML, CSS e Node.js</strong>.</p>
